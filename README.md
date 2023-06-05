@@ -1,1 +1,3 @@
 This is your README.md file.
+This is fun when you get the hank of it!
+Let's see if we've gotten it thus far...
